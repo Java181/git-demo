@@ -6,5 +6,6 @@ public class gitTest {
         System.out.println("git4");
         System.out.println("ppp");
         System.out.println("ttt");
+        System.out.println("xxx");
     }
 }
