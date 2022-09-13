@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("ttt");
         System.out.println("xxx");
         System.out.println("ddd");
+        System.out.println("aaa");
     }
 }
